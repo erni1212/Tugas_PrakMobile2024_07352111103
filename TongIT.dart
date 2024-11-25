@@ -16,7 +16,7 @@ class ProdukDigital {
 
 // Kelas Karyawan Abstrak
 abstract class Karyawan {
-  String nama;
+  String nama; 
   int umur;
   String peran;
 
